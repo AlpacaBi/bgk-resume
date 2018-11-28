@@ -1,30 +1,23 @@
-# 一个会动的简历模板
+# 基于vue的动态简历，装逼利器
 
-> This is my resume
+> 在线预览
 
-[预览](https://jirengu-inc.github.io/animating-resume/public/)
+[http://resume.biguokang.cn](http://resume.biguokang.cn)
 
 ## 使用方法
 
 ``` bash
-git clone git@github.com:jirengu-inc/animating-resume.git
+git clone https://github.com/biguokang/bgk-resume.git
 cd animating-resume
-npm install
+npm bgk-resume
 npm run dev
 ```
 
 ## 部署方法
 
+``` bash
+1. 使用npm run build命令
+2. 你的目录里会出现一个public文件夹，文件夹里面的内容复制部署到你的服务器就可以了
+```
 
-1. 编辑 config/index.js，修改第 10 行的 assetsPublicPath，值为 `项目名/dist`。如果你没有修改项目名 animating-resume，则可跳过此步骤。
-
-2. 编译、上传
-    ``` bash
-    npm run build
-    git add .
-    git commit -m "update"
-    git push
-    ```
-
-3. 开启 GitHub Pages 功能
 
