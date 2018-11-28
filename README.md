@@ -8,8 +8,8 @@
 
 ``` bash
 git clone https://github.com/biguokang/bgk-resume.git
-cd animating-resume
-npm bgk-resume
+cd bgk-resume
+npm install
 npm run dev
 ```
 
