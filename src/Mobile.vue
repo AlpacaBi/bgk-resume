@@ -23,7 +23,7 @@
         enableHtml: false,
         fullStyle: [
           `/*
-* Inspired by http://strml.net/
+/*
 * 你好，我是毕国康
 * 本人正在找工作，所以我现在在写一份在线简历！
 * 感谢您花时间阅读我的在线简历，期待能有机会和您共事
@@ -128,62 +128,69 @@ html{
 }
 `],
         currentMarkdown: '',
-        fullMarkdown: `毕国康的在线简历
-----
+        fullMarkdown: `
+# 毕国康的在线个人简历
 
-----
-感谢您花时间阅读我的简历，期待能有机会和您共事
-
-个人信息：
-----
-* 基本信息：毕国康/男/1995
-* 期望职位：web前端开发、node.js开发
-* 期望工作地点：广州/深圳
-* 工作手机：17666503029
-* 工作微信：workbiguokang
-* 工作邮箱：biguokang@outlook.com
-* 个人网站：https://biguokang.cn
-* github地址：https://github.com/biguokang
+感谢您花时间阅读我的简历，期待能有机会和您共事，想了解更多信息可以面谈
 
 
-教育经历
-----
-* 韶关学院 - 物联网工程 - 本科
+## 个人信息
+ - **毕国康**/男/1995
+ - **本科**/韶关学院 物联网工程
+ - **期望职位**：web前端开发、node.js开发
+ - **期望城市**：广州、深圳
+ - **手机**：17666503029
+ - **邮箱**：bi@guokang.email
+ - **微信**：workbiguokang
+ - **Github**：https://github.com/biguokang
+ - **个人网站**：https://biguokang.cn
 
 
-技术栈
-----
-* web开发：html5+css+JavaScript三件套，熟悉es6新特性，掌握闭包、原型链、异步概念
-* Web框架和库：React.js/Vue.js/Bootstrap/ElementUI/jQuery/live2d.js/MUI
-* 前端工具和脚手架：npm包管理器/webpack/create-react-app/Vue-cli
-* 网络请求工具：ajax/fetch/vue-resource
-* 异步编程技术：callback/Promise/Generator/async
-* 后台技术：node.js/express框架/cookies-session
-* 服务器相关：nginx/nginx反向代理/nginx转发
-* 数据库相关：MySQL
-* 版本管理工具：git
-* 云和开放平台:阿里云/腾讯云/百度ai开放平台/腾讯ai开放平台/旷视ai开放平台
-* 操作系统：windows/macos/Ubuntu/Centos
-* 其他（略懂）：php/python3/java/wxpy/c/http协议
 
+## 技术栈清单
+以下均为我熟练使用的技能，均用来做过东西
 
-项目经历
-----
+* **web开发**：html5+css+JavaScript三件套，熟悉es6，掌握闭包、原型链、异步概念
+* **Web框架和库**：React.js/Vue.js/Bootstrap/ElementUI/jQuery/live2d.js
+* **前端工具**：npm包管理器/webpack/create-react-app/Vue-cli/Dva
+* **状态管理**：Redux/react-redux/vuex
+* **网络请求**：ajax/fetch/vue-resource/axios
+* **异步编程**：callback/Promise/Generator/async
+* **后台技术**：node.js/express框架/cookies-session
+* **服务器**：nginx/nginx反向代理/nginx转发
+* **数据库**：MySQL
+* **版本管理**：git
+* **操作系统**：windows/macos/Ubuntu/Centos
+* **其他（略懂）**：php/python3/java/wxpy/c/http协议
+
+## 开源项目和作品
 1. [基于react框架开发的单页博客系统](https://biguokang.cn)
 2. [基于vue框架开发的单页博客系统](http://vue.biguokang.cn)
 3. [基于node.js的express框架开发的博客后台系统](https://biguokang.cn/#/backstage)
 4. [基于live2d.js的web嵌入式人工智能，拥有聊天和图片识别功能](http://live2d.biguokang.cn)
 5. [基于wxpy的微信智能ai，拥有聊天和图片识别功能，ai微信号biguokang，欢迎调戏](https://github.com/biguokang/bgk_weixin_bot)
+6. [基于wxpy和百度审核ai的的微信智能语言图片审核，能够识别微信对话内容和图片是否存在违规情况](https://github.com/biguokang/bgk-wechat-cleaner)
 
 
-博客文章：
-----
-* [本人对于JavaScript原型和原型链的理解](https://biguokang.cn/#/article)
-* [JavaScript异步编程技术方法总结](https://biguokang.cn/#/article)
+## 博客文章：
+* [本人对于JavaScript原型和原型链的理解](https://biguokang.cn/#/article/66)
+* [JavaScript异步编程技术方法总结](https://biguokang.cn/#/article/68)
+
+## 自我评价：
+- 技术：
+   - js自认中等水平吧，作用域、闭包、原型链、异步、es6还是能吹上几分钟的；
+   - css一般只记得常用的属性，不常用的要翻文档，会写响应式页面；
+   - 框架方面对React比较熟，平时React用的也比较多；
+   - 当然了Vue我也会用，也能用Vue造出东西，不过没有React那么熟；
+   - 因为自己买了服务器搭过项目，自认为it知识广度比较广；
+- 个人：
+   - 为人乐观，性格开朗
+   - 热爱it技术，业余喜欢搞点有趣的线上项目，喜欢动手。
+   - 热爱学习，热衷接触新技术新事物。
+   - 能接受加班
 
 
-> 如果你想知道更多详细信息，[点击这里](https://biguokang.cn)下载pdf版简历
-
+> 如果你想知道更多详细信息，<a href="resume.txt" download="简历">点击这里</a>下载pdf版简历
 `
       }
     },

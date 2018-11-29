@@ -34,7 +34,7 @@
     }
   }
   .htmlMode {
-    animation: flip 2s;
+    animation: flip 0.5s;
   }
 
   @keyframes flip {
