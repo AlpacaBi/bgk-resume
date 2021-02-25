@@ -1,0 +1,57 @@
+
+#app[data-v-55f47be9] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+html[data-v-55f47be9] {
+  min-height: 100vh;
+}
+*[data-v-55f47be9]{
+  box-sizing: border-box;
+}
+
+pre[data-v-8eda61a6]{
+}
+@media (max-width:500px){
+pre[data-v-8eda61a6]{
+}
+}
+.code[data-v-8eda61a6] {
+  display: none;
+}
+
+@media (max-width:500px){
+.resumeEditor[data-v-3bfc5f5b]{
+}
+}
+.htmlMode[data-v-3bfc5f5b] {
+  animation: flip 0.5s;
+}
+@keyframes flip {
+from {
+    opacity: 0;
+}
+to {
+    opacity: 1;
+}
+}
+*{margin: 0; padding: 0;}
+*{box-sizing: border-box;}
+*::before{box-sizing: border-box;}
+*::after{box-sizing: border-box;}
+#app[data-v-047b06ec] {
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-height: 100vh; position: relative;
+}
+html[data-v-047b06ec] {
+  min-height: 100vh;
+}
+*[data-v-047b06ec]{
+  box-sizing: border-box;
+}
+
+
+/*# sourceMappingURL=app.b81e447c28f467b36842aa56c93e97fa.css.map*/
