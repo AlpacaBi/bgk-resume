@@ -81,7 +81,7 @@ html{
   top: 32vh; left: 0;
   padding: .5em;  
   margin: 2.5vh 5vw;
-  width: 90vw; height: 52vh;
+  width: 90vw; height: 50vh;
   border: 1px solid;
   background: white; color: #222;
   overflow: auto;
