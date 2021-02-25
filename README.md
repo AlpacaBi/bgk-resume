@@ -2,7 +2,7 @@
 
 > 在线预览
 
-[http://resume.alpaca.run](http://resume.alpaca.run)
+[https://resume.alpaca.run](https://resume.alpaca.run)
 
 ## 使用方法
 
